@@ -1,1 +1,44 @@
-KCgpPT57CiAndXNlIHN0cmljdCc7CiBjb25zdCBlc2NhcGU9dmFsdWU9PlN0cmluZyh2YWx1ZSkucmVwbGFjZSgvWyY8PiInXS9nLGNoYXI9Pih7JyYnOicmYW1wOycsJzwnOicmbHQ7JywnPic6JyZndDsnLCciJzonJnF1b3Q7JywiJyI6JyYjMzk7J31bY2hhcl0pKTsKIHdpbmRvdy5yZW5kZXJDb21tb25QaW5Sb2xlcz1mdW5jdGlvbih0YXJnZXQsY29uZmlnKXsKICBjb25zdCByb290PXR5cGVvZiB0YXJnZXQ9PT0nc3RyaW5nJz9kb2N1bWVudC5xdWVyeVNlbGVjdG9yKHRhcmdldCk6dGFyZ2V0OwogIGlmKCFyb290KXJldHVybjsKICBjb25zdCByb3c9KHJvbGUsbGFiZWwsaGVscGVyLHZhbHVlLGxlc3Nvbik9PmA8ZGl2IGNsYXNzPSJwaW4tcm9sZS1jYXJkIHBpbi0ke3JvbGV9Ij48YiBjbGFzcz0icGluLW5hbWUiPiR7ZXNjYXBlKGxhYmVsKX08L2I+PGRpdj48c3BhbiBjbGFzcz0icGluLXJvbGUiPiR7ZXNjYXBlKGhlbHBlcil9PC9zcGFuPiR7bGVzc29uPyc8c3BhbiBjbGFzcz0icGluLXJvbGUiPuydtOuyiCDsiJjsl4U6PC9zcGFuPic6Jyd9PHN0cm9uZyBjbGFzcz0icGluLWNvbm5lY3Rpb24iPiR7ZXNjYXBlKHZhbHVlKX08L3N0cm9uZz48L2Rpdj48L2Rpdj5gOwogIHJvb3QuaW5uZXJIVE1MPXJvdygnc2lnbmFsJyxjb25maWcuc2lnbmFsTGFiZWwsKGNvbmZpZy5zaWduYWxUeXBlPT09J2FuYWxvZyc/J0EwfkE1JzonRDB+RDEzJykrJyDsl7DqsrAg6rCA64qlJyxjb25maWcubGVzc29uUGluLHRydWUpK3JvdygncG93ZXInLGNvbmZpZy52b2x0YWdlTGFiZWwsJzMuM1YgLyA1ViDsgqzsmqkg6rCA64qlJyxjb25maWcubGVzc29uVm9sdGFnZSx0cnVlKStyb3coJ2dyb3VuZCcsY29uZmlnLmdyb3VuZExhYmVsLCdHTkTsl5Ag7Jew6rKwJywnR05EJyxmYWxzZSk7CiB9OwogZG9jdW1lbnQucXVlcnlTZWxlY3RvckFsbCgnZGlhbG9nLnBoeWNvbS1waW4td2luZG93W2RhdGEtbW9kdWxlLW5hbWVdJykuZm9yRWFjaChkaWFsb2c9PnsKICBjb25zdCBjb25maWc9ZGlhbG9nLmRhdGFzZXQ7CiAgZGlhbG9nLmlubmVySFRNTD1gPGRpdiBjbGFzcz0icGluLWNvbnRlbnQiPjxidXR0b24gY2xhc3M9InBpbi1jbG9zZSIgdHlwZT0iYnV0dG9uIiBkYXRhLWNsb3NlLWRpYWxvZyBhcmlhLWxhYmVsPSLtlYAg7Jet7ZWgIOyEpOuqhSDri6vquLAiPsOXPC9idXR0b24+PGgyIGNsYXNzPSJwaW4tdGl0bGUiIGlkPSJwaW5EaWFsb2dUaXRsZSI+JHtlc2NhcGUoY29uZmlnLm1vZHVsZU5hbWUpfSDrqqjrk4jsnZgg7ZWAIOyXre2VoDwvaDI+PGRpdiBjbGFzcz0icGluLWxheW91dCI+PGltZyBjbGFzcz0icGluLW1vZHVsZS1pbWFnZSIgc3JjPSIke2VzY2FwZShjb25maWcubW9kdWxlSW1hZ2UpfSIgYWx0PSIke2VzY2FwZShjb25maWcubW9kdWxlTmFtZSl9IOuqqOuTiOydmCDtlYAg7Jet7ZWgIj48ZGl2IGNsYXNzPSJwaW4tcm9sZS1saXN0Ij48L2Rpdj48L2Rpdj48L2Rpdj5gOwogIHdpbmRvdy5yZW5kZXJDb21tb25QaW5Sb2xlcyhkaWFsb2cucXVlcnlTZWxlY3RvcignLnBpbi1yb2xlLWxpc3QnKSxjb25maWcpOwogfSk7CiAvLyBTaGFyZWQgRDEzIHJlc3VsdCBjb250ZW50OiB0aGUgTEVEIGxlc3NvbiByZW1haW5zIHRoZSByZWZlcmVuY2UgZGVzaWduLgogd2luZG93LnBpbjEzUmVzdWx0TWFya3VwPSh7aW1hZ2U9Jy4uL2Fzc2V0cy9PcmFuZ2VCb2FyZC5wbmcnfT17fSk9PmA8c3Ryb25nPuyLpO2WiSDqsrDqs7w8L3N0cm9uZz48ZGl2IGNsYXNzPSJwaW4xMy1ib2FyZC12aWV3Ij48aW1nIHNyYz0iJHtlc2NhcGUoaW1hZ2UpfSIgYWx0PSLsmKTroIzsp4Drs7Trk5wiPjxzcGFuIGNsYXNzPSJwaW4xMy1sZWQtZ2xvdyIgYXJpYS1oaWRkZW49InRydWUiPjwvc3Bhbj48c3BhbiBjbGFzcz0icGluMTMtbGVkLWRvdCIgYXJpYS1oaWRkZW49InRydWUiPjwvc3Bhbj48L2Rpdj48cD7smKTroIzsp4Drs7Trk5zsnZggPGI+MTPrsogg7ZWAPC9iPuydtCDsvJzsoYzsirXri4jri6QuPC9wPmA7CiBjb25zdCBsZWRDYXJkPWRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJyNwaW4xM01vZGFsIC5lbnRyeS1yZXN1bHQtY2FyZCcpOwogaWYobGVkQ2FyZCl7Y29uc3QgY2xvc2U9bGVkQ2FyZC5xdWVyeVNlbGVjdG9yKCcuZW50cnktcmVzdWx0LWNsb3NlJyk7bGVkQ2FyZC5yZXBsYWNlQ2hpbGRyZW4oY2xvc2UpO2xlZENhcmQuaW5zZXJ0QWRqYWNlbnRIVE1MKCdiZWZvcmVlbmQnLHdpbmRvdy5waW4xM1Jlc3VsdE1hcmt1cCgpKTt9CiAvLyBNZWFzdXJlIHRoZSByZWFsIHVzYWJsZSBjb250ZW50IHJlZ2lvbiByYXRoZXIgdGhhbiBhcHBseWluZyByZXNvbHV0aW9uIG9mZnNldHMuCiBmdW5jdGlvbiBmaXRMZXNzb25Qb3B1cHMoKXsKICBjb25zdCBzaWRlYmFyPWRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJy5zbGlkZS1zaWRlYmFyJykscmVjdD1zaWRlYmFyPy5nZXRCb3VuZGluZ0NsaWVudFJlY3QoKTsKICBjb25zdCBsZWZ0PXNpZGViYXImJmdldENvbXB1dGVkU3R5bGUoc2lkZWJhcikuZGlzcGxheSE9PSdub25lJz9NYXRoLm1heCgwLHJlY3QucmlnaHQpOjA7CiAgZG9jdW1lbnQuZG9jdW1lbnRFbGVtZW50LnN0eWxlLnNldFByb3BlcnR5KCctLWxlc3Nvbi1sZWZ0JyxsZWZ0KydweCcpOwogIGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3JBbGwoJy5waHljb20tcGluLXdpbmRvdycpLmZvckVhY2goZD0+ewogICBjb25zdCBzY2FsZT1NYXRoLm1pbigxLChpbm5lcldpZHRoLWxlZnQpKi45NC8xNjAwLGlubmVySGVpZ2h0Ki44OC85MDApOwogICBkLnN0eWxlLnNldFByb3BlcnR5KCctLXBpbi1zY2FsZScsc2NhbGUpO2Quc3R5bGUud2lkdGg9MTYwMCpzY2FsZSsncHgnO2Quc3R5bGUuaGVpZ2h0PTkwMCpzY2FsZSsncHgnOwogICBkLnN0eWxlLm1hcmdpbkxlZnQ9bGVmdCsoaW5uZXJXaWR0aC1sZWZ0LTE2MDAqc2NhbGUpLzIrJ3B4JzsKICB9KTsKIH0KIHdpbmRvdy5hZGRFdmVudExpc3RlbmVyKCdyZXNpemUnLGZpdExlc3NvblBvcHVwcyk7ZG9jdW1lbnQuYWRkRXZlbnRMaXN0ZW5lcignZnVsbHNjcmVlbmNoYW5nZScsZml0TGVzc29uUG9wdXBzKTsKIGZpdExlc3NvblBvcHVwcygpOwogLy8gS2VlcCB0aGUgb3JpZ2luYWwgbmF2aWdhdGlvbiBidXR0b25zIHJlYWNoYWJsZSBpbiB0aGUgbW9kYWwgdG9wIGxheWVyLgogY29uc3QgbmF2PWRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJy5zbGlkZS1uYXYnKTsKIGlmKG5hdil7CiAgY29uc3QgYW5jaG9yPWRvY3VtZW50LmNyZWF0ZUNvbW1lbnQoJ3NsaWRlIG5hdmlnYXRpb24gcG9zaXRpb24nKTtuYXYuYmVmb3JlKGFuY2hvcik7CiAgY29uc3Qgc3luY05hdmlnYXRpb249KCk9PnsKICAgY29uc3QgYWN0aXZlPVsuLi5kb2N1bWVudC5xdWVyeVNlbGVjdG9yQWxsKCdkaWFsb2dbb3Blbl0nKV0uZmluZChkaWFsb2c9PmRpYWxvZy5tYXRjaGVzKCc6bW9kYWwnKSk7CiAgIGlmKGFjdGl2ZSl7aWYobmF2LnBhcmVudEVsZW1lbnQhPT1hY3RpdmUpYWN0aXZlLmFwcGVuZENoaWxkKG5hdik7fQogICBlbHNlIGlmKG5hdi5wcmV2aW91c1NpYmxpbmchPT1hbmNob3IpYW5jaG9yLmFmdGVyKG5hdik7CiAgfTsKICBjb25zdCBvYnNlcnZlcj1uZXcgTXV0YXRpb25PYnNlcnZlcihzeW5jTmF2aWdhdGlvbik7CiAgZG9jdW1lbnQucXVlcnlTZWxlY3RvckFsbCgnZGlhbG9nJykuZm9yRWFjaChkaWFsb2c9Pm9ic2VydmVyLm9ic2VydmUoZGlhbG9nLHthdHRyaWJ1dGVzOnRydWUsYXR0cmlidXRlRmlsdGVyOlsnb3BlbiddfSkpOwogfQp9KSgpOwo=
+(()=>{
+ 'use strict';
+ const escape=value=>String(value).replace(/[&<>"']/g,char=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));
+ window.renderCommonPinRoles=function(target,config){
+  const root=typeof target==='string'?document.querySelector(target):target;
+  if(!root)return;
+  const row=(role,label,helper,value,lesson)=>`<div class="pin-role-card pin-${role}"><b class="pin-name">${escape(label)}</b><div><span class="pin-role">${escape(helper)}</span>${lesson?'<span class="pin-role">이번 수업:</span>':''}<strong class="pin-connection">${escape(value)}</strong></div></div>`;
+  root.innerHTML=row('signal',config.signalLabel,(config.signalType==='analog'?'A0~A5':'D0~D13')+' 연결 가능',config.lessonPin,true)+row('power',config.voltageLabel,'3.3V / 5V 사용 가능',config.lessonVoltage,true)+row('ground',config.groundLabel,'GND에 연결','GND',false);
+ };
+ document.querySelectorAll('dialog.phycom-pin-window[data-module-name]').forEach(dialog=>{
+  const config=dialog.dataset;
+  dialog.innerHTML=`<div class="pin-content"><button class="pin-close" type="button" data-close-dialog aria-label="핀 역할 설명 닫기">×</button><h2 class="pin-title" id="pinDialogTitle">${escape(config.moduleName)} 모듈의 핀 역할</h2><div class="pin-layout"><img class="pin-module-image" src="${escape(config.moduleImage)}" alt="${escape(config.moduleName)} 모듈의 핀 역할"><div class="pin-role-list"></div></div></div>`;
+  window.renderCommonPinRoles(dialog.querySelector('.pin-role-list'),config);
+ });
+ // Shared D13 result content: the LED lesson remains the reference design.
+ window.pin13ResultMarkup=({image='../assets/OrangeBoard.png'}={})=>`<strong>실행 결과</strong><div class="pin13-board-view"><img src="${escape(image)}" alt="오렌지보드"><span class="pin13-led-glow" aria-hidden="true"></span><span class="pin13-led-dot" aria-hidden="true"></span></div><p>오렌지보드의 <b>13번 핀</b>이 켜졌습니다.</p>`;
+ const ledCard=document.querySelector('#pin13Modal .entry-result-card');
+ if(ledCard){const close=ledCard.querySelector('.entry-result-close');ledCard.replaceChildren(close);ledCard.insertAdjacentHTML('beforeend',window.pin13ResultMarkup());}
+ // Measure the real usable content region rather than applying resolution offsets.
+ function fitLessonPopups(){
+  const sidebar=document.querySelector('.slide-sidebar'),rect=sidebar?.getBoundingClientRect();
+  const left=sidebar&&getComputedStyle(sidebar).display!=='none'?Math.max(0,rect.right):0;
+  document.documentElement.style.setProperty('--lesson-left',left+'px');
+  document.querySelectorAll('.phycom-pin-window').forEach(d=>{
+   const scale=Math.min(1,(innerWidth-left)*.94/1600,innerHeight*.88/900);
+   d.style.setProperty('--pin-scale',scale);d.style.width=1600*scale+'px';d.style.height=900*scale+'px';
+   d.style.marginLeft=left+(innerWidth-left-1600*scale)/2+'px';
+  });
+ }
+ window.addEventListener('resize',fitLessonPopups);document.addEventListener('fullscreenchange',fitLessonPopups);
+ fitLessonPopups();
+ // Keep the original navigation buttons reachable in the modal top layer.
+ const nav=document.querySelector('.slide-nav');
+ if(nav){
+  const anchor=document.createComment('slide navigation position');nav.before(anchor);
+  const syncNavigation=()=>{
+   const active=[...document.querySelectorAll('dialog[open]')].find(dialog=>dialog.matches(':modal'));
+   if(active){if(nav.parentElement!==active)active.appendChild(nav);}
+   else if(nav.previousSibling!==anchor)anchor.after(nav);
+  };
+  const observer=new MutationObserver(syncNavigation);
+  document.querySelectorAll('dialog').forEach(dialog=>observer.observe(dialog,{attributes:true,attributeFilter:['open']}));
+ }
+})();
