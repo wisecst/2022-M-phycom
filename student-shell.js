@@ -7,7 +7,7 @@ function send(key){frame.contentWindow?.postMessage({type:'info-key',key},locati
 function open(id){if(id===current){navigation.close();focusLesson();return}
  const module=catalogue.lessons.find(m=>m.id===id&&m.enabled);if(!module)return;
  current=id;shell.hidden=false;document.body.style.overflow='hidden';navigation.close();navigation.update(id);
- frame.title=module.name+' 수업';frame.src='lessons/'+module.path+'?ui=20261009-fan-project2';
+ frame.title=module.name+' 수업';frame.src='lessons/'+module.path+'?ui=20261009-fan-five2';
 }
 function close(){window.studentDashboard?.activateTab(catalogue.projects.some(p=>p.id===current)?'projects':'modules');shell.hidden=true;current=null;navigation.close();frame.src='about:blank';document.body.style.overflow='';document.querySelector('[data-open-module]')?.focus()}
 const fullscreen=()=>window.infoFullscreen.toggle();
