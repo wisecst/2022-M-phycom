@@ -5,11 +5,11 @@ let current=null;
 function focusLesson(){if(!shell.hidden)frame.contentWindow?.focus()}
 function send(key){frame.contentWindow?.postMessage({type:'info-key',key},location.origin)}
 function open(id){if(id===current){navigation.close();focusLesson();return}
- const module=catalogue.modules.find(m=>m.id===id&&m.enabled);if(!module)return;
+ const module=catalogue.lessons.find(m=>m.id===id&&m.enabled);if(!module)return;
  current=id;shell.hidden=false;document.body.style.overflow='hidden';navigation.close();navigation.update(id);
- frame.title=module.name+' 수업';frame.src='lessons/'+module.path+'?ui=20261009-bottom-nav1';
+ frame.title=module.name+' 수업';frame.src='lessons/'+module.path+'?ui=20261009-fan-project1';
 }
-function close(){shell.hidden=true;current=null;navigation.close();frame.src='about:blank';document.body.style.overflow='';document.querySelector('[data-open-module]')?.focus()}
+function close(){window.studentDashboard?.activateTab(catalogue.projects.some(p=>p.id===current)?'projects':'modules');shell.hidden=true;current=null;navigation.close();frame.src='about:blank';document.body.style.overflow='';document.querySelector('[data-open-module]')?.focus()}
 const fullscreen=()=>window.infoFullscreen.toggle();
 const navigation=catalogue.create({home:close,previous:()=>send('ArrowLeft'),next:()=>send('ArrowRight'),select:open,fullscreen});
 shell.append(navigation.element);
