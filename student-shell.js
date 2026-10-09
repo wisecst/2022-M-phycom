@@ -9,7 +9,7 @@ shell.prepend(nav,toc);
 function credit(){const p=document.createElement('p');p.className='creator-credit';const c=window.INFO_UI_CREATOR||{};p.textContent=`© ${c.year||'2026'} ${c.name||'B.K.Son'}${c.rights?` · ${c.rights}`:''}`;return p}
 shell.append(credit());document.querySelector('.lesson-screen').append(credit());
 function focusLesson(){if(shell.hidden)return;frame.contentWindow?.focus()}
-function open(key){if(!names[key])return;current=key;shell.hidden=false;document.body.style.overflow='hidden';toc.replaceChildren();const h=document.createElement('h2');h.textContent=names[key]+' 목차';toc.append(h);for(const b of nav.children){if(b.dataset.module===key)b.setAttribute('aria-current','true');else b.removeAttribute('aria-current')}frame.title=names[key]+' 수업';frame.src='lessons/'+key+'/?ui=20261009-student1';}
+function open(key){if(!names[key])return;current=key;shell.hidden=false;document.body.style.overflow='hidden';toc.replaceChildren();const h=document.createElement('h2');h.textContent=names[key]+' 목차';toc.append(h);for(const b of nav.children){if(b.dataset.module===key)b.setAttribute('aria-current','true');else b.removeAttribute('aria-current')}frame.title=names[key]+' 수업';frame.src='lessons/'+key+'/?ui=20261009-student2';}
 function close(){shell.hidden=true;current=null;frame.src='about:blank';document.body.style.overflow='';document.querySelector('[data-open-module]')?.focus()}
 const fullscreen=()=>window.infoFullscreen.toggle();
 function syncFullscreen(){window.infoFullscreen.sync()}
