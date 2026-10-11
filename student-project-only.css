@@ -1,0 +1,4 @@
+/* Student deployment: Unit III is the only visible home area. */
+#dashboard .dashboard-tabs [data-unit]:not([data-unit="projects"]){display:none!important}
+#dashboard .dashboard-tabs [data-unit="projects"]{pointer-events:none}
+#dashboard #understandPanel,#dashboard #modulePanel,#dashboard #aiPanel{display:none!important}
